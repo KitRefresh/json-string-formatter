@@ -3,7 +3,11 @@
 A lightweight JSON string formatter which can prettify your JSON string without parsing it to object.
 
 ## Install
-`npm install json-string-formatter`
+`npm install --save json-string-formatter`
+
+or
+
+`yarn add json-string-formatter`
 
 ## Usage
 1. Import
