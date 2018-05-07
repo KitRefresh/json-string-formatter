@@ -1,7 +1,7 @@
 {
   "name": "json-string-formatter",
   "description": "A json string formatter with zero dependency.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "author": "yeze322@163.com",
   "scripts": {

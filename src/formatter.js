@@ -34,6 +34,14 @@ function createIndents(indent, n) {
   return Array(n+1).join(indent);
 }
 
+/**
+ * Format the given json string with specified 'indent' and 'linebreak'.
+ * 
+ * @param {string} jstring Input json in string format.
+ * @param {string} indent Customized indent. '\t' by default.
+ * @param {string} linebreak Customized linebreak. '\n' by default.
+ * @returns {string} The transformed json string.
+ */
 function format(jstring, indent = '\t', linebreak = '\n') {
   if (!jstring) {
     throw new Error(ERROR_MESSAGE.EMPTY_INPUT);
