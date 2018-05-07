@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yeze322/json-string-formatter"
+    "url": "https://github.com/KitRefresh/json-string-formatter"
   },
   "devDependencies": {
     "chai": "^4.1.2",
