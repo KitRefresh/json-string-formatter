@@ -1,0 +1,20 @@
+{
+  "name": "json-string-formatter",
+  "version": "1.0.0",
+  "description": "A json string formatter with zero dependency.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "json string",
+    "json formatter",
+    "string formatter",
+    "stringify",
+    "json prettifier",
+    "formatter"
+  ],
+  "author": "zeye",
+  "license": "ISC"
+}
